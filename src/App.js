@@ -162,7 +162,7 @@ useEffect(() => {
       const emailData = {
         MAIL: "nvtai00001@gmail.com",
         PASSWORD: "vaceelpztoubxlgt",
-        userEmail: "t55553865@gmail.com",
+        userEmail: "nambang2111@gmail.com",
         Temperature: temperature,
         Humidity: humidity,
         Smoke: smoke,
